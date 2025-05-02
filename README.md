@@ -90,9 +90,9 @@ Elaboração de estratégias de mercado e infraestrutura para negócios digitais
 
 ## 📫 Contato
 
-- 📧 Email: [phmoraes376@gmail.com](mailto:phmoraes376@gmail.com)
+- 📧 Email: [pedrohmsan1@gmail.com](mailto:pedrohmsan1@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/pedrohenrique](https://www.linkedin.com/in/pedrohenrique)
-- 🐙 GitHub: [github.com/pedrohenrique](https://github.com/pedrohenrique)
+- 🐙 GitHub: [github.com/PedroMoraesSan](https://github.com/PedroMoraesSan/)
 - 🌐 Portfólio: [v0-portfolio-p0p5q1.vercel.app](https://v0-portfolio-p0p5q1.vercel.app)
 
 ---
