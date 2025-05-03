@@ -52,9 +52,9 @@ Sou um entusiasta da tecnologia com o propósito de utilizar a engenharia de sof
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohenrique&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohenrique&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroMoraesSan&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoraesSan&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMoraesSan&theme=radical" />
 </p>
 
 ---
