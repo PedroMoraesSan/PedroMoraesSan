@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou Pedro Henrique Moraes Santos</h1>
+<h1 align="left">👋 Olá! Eu sou Pedro Henrique Moraes Santos</h1>
 
-<p align="center">
+<p align="left">
   <em>"As pessoas loucas o suficiente para acharem que podem mudar o mundo, são as que, de fato, o mudam." - Steve Jobs</em>
 </p>
 
@@ -32,21 +32,6 @@ Sou um entusiasta da tecnologia com o propósito de utilizar a engenharia de sof
 ![Git](https://img.shields.io/badge/Git-75%25-red)
 ![HTML](https://img.shields.io/badge/HTML-90%25-green)
 ![CSS](https://img.shields.io/badge/CSS-85%25-purple)
-
----
-
-## 🤝 Habilidades Interpessoais
-
-- 🧠 Pensamento Analítico
-- 📚 Aprendizado Contínuo
-- 🎤 Oratória
-- 🤝 Trabalho em Equipe
-- 💡 Criatividade
-- 🧘 Inteligência Emocional
-- 📢 Comunicação
-- 🧭 Liderança
-- 🔄 Adaptabilidade
-
 ---
 
 ## 📈 Estatísticas do GitHub
@@ -56,12 +41,6 @@ Sou um entusiasta da tecnologia com o propósito de utilizar a engenharia de sof
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoraesSan&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMoraesSan&theme=radical" />
 </p>
-
----
-
-## 🕹️ Minigame Interativo
-
-![Snake Game](https://github.com/pedrohenrique/pedrohenrique/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -75,16 +54,6 @@ Sou um entusiasta da tecnologia com o propósito de utilizar a engenharia de sof
 - **Educação Empreendedora** – SEBRAE (70h)
 - **Desenvolvimento Full Stack JavaScript** – Youth Space (em andamento)
 - **Marketing Digital e E-commerce** – Google (em andamento)
-
----
-
-## 🚀 Projetos em Destaque
-
-### Estratégias de Mercado e Infraestrutura
-
-Elaboração de estratégias de mercado e infraestrutura para negócios digitais, incluindo comunicação com o cliente, criação de landing pages e definição de canais de comunicação.
-
-🔗 *Em breve disponível aqui no GitHub!*
 
 ---
 
